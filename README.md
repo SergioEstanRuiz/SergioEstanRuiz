@@ -8,11 +8,12 @@ Here is a collection of lecture notes crafted by me for the Economics degree off
 (2) [Apuntes de Historia Económica de España](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Apuntes%20Historia%20Econ%C3%B3mica%20de%20Espa%C3%B1a.pdf) \
 (3) [Apuntes de Macroeconomía I](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Apuntes%20de%20Introducci%C3%B3n%20a%20la%20Macroeconom%C3%ADa.pdf) 
 ### Segundo de Carrera
-(1) [Apuntes de Microeconomía II](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Microeconom%C3%ADa_%20Producci%C3%B3n%20y%20Mercados.pdf) \
+(1) [Apuntes Economía Mundial- apuntes parciales](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Econom%C3%ADa%20Mundial%20Apuntes%20II.pdf)
 (2) [Apuntes de Macroeconomía II](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Apuntes%20Macroeconom%C3%ADa%20II.pdf) \
 (3) [Apuntes de Organismos Internacionales](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Apuntes%20Organismos%20Internacionales.pdf)
 ### Tercero de Carrera
-(1) [Apuntes de Sistema Financiero](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Sistema%20Financiero-%20Apuntes.pdf) 
+(1) [Apuntes de Microeconomía III](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Microeconom%C3%ADa_%20Producci%C3%B3n%20y%20Mercados.pdf) \
+(2) [Apuntes de Sistema Financiero](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Sistema%20Financiero-%20Apuntes.pdf) 
 
 ## More info 📖
 If you'd like to know more about me you can visit my [linkedin profile](https://www.linkedin.com/in/sergio-esta%C3%B1-ruiz-870347221/). 
