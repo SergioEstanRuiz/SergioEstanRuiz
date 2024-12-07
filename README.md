@@ -1,7 +1,7 @@
 ## A bit about me 😄
 My name is Sergio and I am a PhD student at Imperial. I am currently working on GNAR time series models for macroeconomic forecasting, in the larger context of statistics and ML for public policy. Before this, I studied maths at Warwick and went on to do part III at Cambridge, after which I did a very much needed gap year. Outside of uni, I like to cook, go bouldering, reading and dancing salsa! 
 
-## UNED Economics Lecture Notes
+## UNED Economics Lecture Notes (Apuntes de Economía en la UNED)
 Here is a collection of lecture notes crafted by me for the Economics degree offered by UNED. They will most likely include typos and I claim no orginality! Some extracts have been taken from the recommended bibliography. I hope this is useful to fellow students!
 ### Primero de Carrera
 (1) [Apuntes de Fundamentos de la UE](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Apuntas%20Fundamentos%20de%20la%20UE.pdf) \
