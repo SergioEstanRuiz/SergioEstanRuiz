@@ -3,11 +3,11 @@ My name is Sergio and I am a PhD student at Imperial. I am currently working on 
 
 ## UNED Economics Lecture Notes
 Here is a collection of lecture notes crafted by me for the Economics degree offered by UNED. They will most likely include typos and I claim no orginality! Some extracts might be taken for the recommended bibliography. I hope this is useful to fellow students!
-# Primero de Carrera
+### Primero de Carrera
 
-# Segundo de Carrera
+### Segundo de Carrera
 
-# Tercero de Carrera
+### Tercero de Carrera
 
 ## More info 📖
 If you'd like to know more about me you can visit my [linkedin profile](https://www.linkedin.com/in/sergio-esta%C3%B1-ruiz-870347221/). 
