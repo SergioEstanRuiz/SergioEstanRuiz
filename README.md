@@ -14,6 +14,8 @@ Here is a collection of lecture notes crafted by me for the Economics degree off
 ### Tercero de Carrera
 (1) [Apuntes de Microeconomía III](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Microeconom%C3%ADa_%20Producci%C3%B3n%20y%20Mercados.pdf) \
 (2) [Apuntes de Sistema Financiero](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Sistema%20Financiero-%20Apuntes.pdf) 
+### Cuarto de Carrera
+(1) [Apuntes de Historia del Pensamiento Económico](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Historia%20del%20Pensamiento%20Econ%C3%B3mico.pdf)
 
 ## More info 📖
 If you'd like to know more about me you can visit my [linkedin profile](https://www.linkedin.com/in/sergio-esta%C3%B1-ruiz-870347221/). 
