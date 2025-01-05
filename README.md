@@ -15,7 +15,7 @@ Here is a collection of lecture notes crafted by me for the Economics degree off
 (1) [Apuntes de Microeconomía III](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Microeconom%C3%ADa_%20Producci%C3%B3n%20y%20Mercados.pdf) \
 (2) [Apuntes de Sistema Financiero](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Sistema%20Financiero-%20Apuntes.pdf) 
 ### Cuarto de Carrera
-(1) [Apuntes de Historia del Pensamiento Económico](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Historia%20del%20Pensamiento%20Econ%C3%B3mico.pdf)
+(1) [Apuntes de Historia del Pensamiento Económico](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Historia%20del%20Pensamiento%20Econ%C3%B3mico.pdf) \
 (2) [Apuntes de Presupuestos y Gasto Público en España](https://github.com/SergioEstanRuiz/SergioEstanRuiz/blob/main/Presupuestos%20y%20Gasto%20P%C3%BAblico%20en%20Espa%C3%B1a.pdf)
 
 ## More info 📖
